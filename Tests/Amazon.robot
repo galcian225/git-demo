@@ -17,7 +17,7 @@ Logged out user can view a product
     Amazon.Select Product from Search Results
 
 Logged out user can add product to cart
-    [Tags]  Smoke
+    [Tags]  Smoke  View
     Amazon.Search for Products
     Amazon.Select Product from Search Results
     Amazon.Add Product to Cart
