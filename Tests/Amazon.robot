@@ -23,7 +23,7 @@ Logged out user can add product to cart
     Amazon.Add Product to Cart
 
 Logged out user must sign in to check out
-    [Tags]  Smoke
+    [Tags]  Smoke  Checkout
     Amazon.Search for Products
     Amazon.Select Product from Search Results
     Amazon.Add Product to Cart
