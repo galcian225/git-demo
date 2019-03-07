@@ -29,6 +29,8 @@ Logged out user must sign in to check out
     Amazon.Add Product to Cart
     Amazon.Begin Checkout
 
+Feature 2 Test
+    Log doing feature 2
 
 *** Keywords ***
 
