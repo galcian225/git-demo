@@ -29,9 +29,6 @@ Logged out user must sign in to check out
     Amazon.Add Product to Cart
     Amazon.Begin Checkout
 
-Feature 1 Test
-    Log Doing feature 1
-
 *** Keywords ***
 
 # ${browser} 지정하여 bat파일로 여러 브라우저 에서 테스팅함.
