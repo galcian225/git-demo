@@ -12,7 +12,7 @@ Test Teardown  End Web Test
 
 *** Test Cases ***
 Logged out user can view a product
-    [Tags]  Smoke
+    [Tags]  Smoke  Products
     Amazon.Search for Products
     Amazon.Select Product from Search Results
 
